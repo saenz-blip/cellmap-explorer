@@ -1,0 +1,1606 @@
+{
+"source": "https://www.saferproducts.gov/RestWebServices/Recall",
+"fetched": "2026-11-13",
+"recalls": [
+{
+"n": "27065",
+"d": "2026-11-05",
+"t": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
+"u": "https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0",
+"f": "Bose Corporation, of Framingham, Massachusetts",
+"k": "audio"
+},
+{
+"n": "27056",
+"d": "2026-10-29",
+"t": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech",
+"u": "https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech",
+"f": "",
+"k": "power bank"
+},
+{
+"n": "27004",
+"d": "2026-10-01",
+"t": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard",
+"f": "Gazelle USA LLC, of Santa Cruz, California",
+"k": "e-bike"
+},
+{
+"n": "26792",
+"d": "2026-09-24",
+"t": "NEWDERY Power Banks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury; Sold on Amazon",
+"u": "https://cpsc.gov/Recalls/2026/NEWDERY-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-Sold-on-Amazon",
+"f": "Shenzhen Xinkewangda Electronics Co., Ltd., d/b/a NEWDERY, of China",
+"k": "power bank"
+},
+{
+"n": "26740",
+"d": "2026-09-03",
+"t": "Truststone Group Recalls XO Poppy Power Trip Magnetic Wireless Power Banks Due to Fire and Burn Hazards; Sold Exclusively at TJX and Marshalls Stores",
+"u": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+"f": "Truststone Group LLC of New York",
+"k": "power bank"
+},
+{
+"n": "26731",
+"d": "2026-09-03",
+"t": "Audio Partnership Recalls Cambridge Audio Yoyo (M) Portable Bluetooth Speakers Due to Fire Hazard",
+"u": "https://cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+"f": "Audio Partnership Plc, of England",
+"k": "audio"
+},
+{
+"n": "26575",
+"d": "2026-06-25",
+"t": "Super Off-Road Solar Power Banks Recalled Due to Overheating; Imported by Spector & Co.",
+"u": "https://www.cpsc.gov/Recalls/2026/Super-Off-Road-Solar-Power-Banks-Recalled-Due-to-Overheating-Imported-by-Spector-Co",
+"f": "Spector & Co., of Saint Laurent, of Quebec, Canada",
+"k": "power bank"
+},
+{
+"n": "26524",
+"d": "2026-06-04",
+"t": "Wyze Labs Recalls Solar Cam Pan Security Cameras Due to Risk of Serious Injury from Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2026/Wyze-Labs-Recalls-Solar-Cam-Pan-Security-Cameras-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+"f": "Wyze Labs, Inc., of Kirkland, Washington",
+"k": "camera"
+},
+{
+"n": "26453",
+"d": "2026-04-30",
+"t": "Acer America Corporation Recalls Two-Wheeled Folding Electric Due to Risk of Injury from Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2026/Acer-America-Corporation-Recalls-Two-Wheeled-Folding-Electric-Scooters-Due-to-Risk-of-Injury-from-Fall-Hazard",
+"f": "Acer America Corporation, of Irvine, California",
+"k": "e-scooter"
+},
+{
+"n": "26399",
+"d": "2026-04-09",
+"t": "Shenzhen Baihang Recalls VEEKTOMX Mini Power Banks, Due to Fire and Burn Hazards; Sold on Amazon",
+"u": "https://www.cpsc.gov/Recalls/2026/Shenzhen-Baihang-Recalls-VEEKTOMX-Mini-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-on-Amazon",
+"f": "Shenzhen Baihang Technology Co., Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "26330",
+"d": "2026-03-19",
+"t": "Specialized Bicycle Components Recalls Specialized Turbo Como SL Electric Bicycles Due to Risk of Serious Injury or Death from Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2026/Specialized-Bicycle-Components-Recalls-Specialized-Turbo-Como-SL-Electric-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+"f": "Specialized Bicycle Components Inc., of Morgan Hill, California",
+"k": "e-bike"
+},
+{
+"n": "26236",
+"d": "2026-01-29",
+"t": "Gazelle USA Recalls Urban Arrow FamilyNext Pro Cargo E-Bikes Due to Injury Hazard",
+"u": "https://www.cpsc.gov/Recalls/2026/Gazelle-USA-Recalls-Urban-Arrow-FamilyNext-Pro-Cargo-E-Bikes-Due-to-Injury-Hazard",
+"f": "Gazelle USA, LLC, of Santa Cruz, California",
+"k": "e-bike"
+},
+{
+"n": "26220",
+"d": "2026-01-29",
+"t": "Rear Bolts on Trek and Electra Electric Bicycles Recalled Due to Fall Hazard; Manufactured by Hyena",
+"u": "https://www.cpsc.gov/Recalls/2026/Rear-Bolts-on-Trek-and-Electra-Electric-Bicycles-Recalled-Due-to-Fall-Hazard-Manufactured-by-Hyena",
+"f": "Hyena, Inc., of Taiwan",
+"k": "e-bike"
+},
+{
+"n": "26152",
+"d": "2025-12-18",
+"t": "Pedego Electric Bikes Recalls Fat Tire Trikes Due to Fall and Laceration Hazards",
+"u": "https://www.cpsc.gov/Recalls/2026/Pedego-Electric-Bikes-Recalls-Fat-Tire-Trikes-Due-to-Fall-and-Laceration-Hazards",
+"f": "Pedego, LLC, of Fountain View, California",
+"k": "e-bike"
+},
+{
+"n": "26138",
+"d": "2025-12-11",
+"t": "TREK Recalls Electric Bicycles Due to Fall or Crash Hazard",
+"u": "https://www.cpsc.gov/Recalls/2026/TREK-Recalls-Electric-Bicycles-Due-to-Fall-or-Crash-Hazard",
+"f": "Trek Bicycle Corporation, of Waterloo, Wisconsin",
+"k": "e-bike"
+},
+{
+"n": "26135",
+"d": "2025-12-05",
+"t": "INIU Recalls Power Banks Due to Fire and Burn Hazards; Sold on Amazon",
+"u": "https://www.cpsc.gov/Recalls/2026/INIU-Recalls-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-on-Amazon",
+"f": "Shenzhen Topstar Industry Co., Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "26090",
+"d": "2025-11-13",
+"t": "Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2026/Belkin-Recalls-Portable-Power-Banks-and-Wireless-Charging-Stands-Due-to-Fire-and-Burn-Hazards",
+"f": "Belkin International Inc., of El Segundo, California",
+"k": "power bank"
+},
+{
+"n": "26011",
+"d": "2025-10-09",
+"t": "ESR HaloLock Wireless Power Banks Recall Expanded to Include Additional Model Due to Risk of Serious Burn Injury and Fire Hazard Due to Fire and Burn Hazards; Distributed by Waymeet",
+"u": "https://www.cpsc.gov/Recalls/2026/ESR-HaloLock-Wireless-Power-Banks-Recall-Expanded-to-Include-Additional-Model-Due-to-Fire-and-Burn-Hazards-Distributed-by-Waymeet",
+"f": "",
+"k": "power bank"
+},
+{
+"n": "26002",
+"d": "2025-10-02",
+"t": "Zyntony Recalls Kogalla Power Banks Due to Fire and Burn Hazards; Sold on Kogalla.com",
+"u": "https://www.cpsc.gov/Recalls/2026/Zyntony-Recalls-Kogalla-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-on-Kogalla-com",
+"f": "Zyntony Inc. of Draper, Utah",
+"k": "power bank"
+},
+{
+"n": "25437",
+"d": "2025-08-14",
+"t": "ESR HaloLock Wireless Power Banks Recalled Due to Fire and Burn Hazards; Distributed by Waymeet",
+"u": "https://www.cpsc.gov/Recalls/2025/ESR-HaloLock-Wireless-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Distributed-by-Waymeet",
+"f": "",
+"k": "power bank"
+},
+{
+"n": "25428",
+"d": "2025-08-07",
+"t": "Deale International Recalls Altafit Smartwatches Due to Risk of Serious Burn Injury and Fire Hazard; Sold by HSN",
+"u": "https://www.cpsc.gov/Recalls/2025/Deale-International-Recalls-Altafit-Smartwatches-Due-to-Risk-of-Serious-Burn-Injury-and-Fire-Hazard-Sold-by-HSN",
+"f": "Deale International LLC, of Fort Lauderdale, Florida",
+"k": "audio"
+},
+{
+"n": "25405",
+"d": "2025-07-24",
+"t": "Transpro US Recalls Electric Scooters with Unauthorized Lithium-Ion Battery UL Certification Labels Due to Fire and Burn Hazards; Risk of Serious Injury and Death; $200,000 in Property Damage Reported",
+"u": "https://www.cpsc.gov/Recalls/2025/Transpro-US-Recalls-Electric-Scooters-with-Unauthorized-Lithium-Ion-Battery-UL-Certification-Labels-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-and-Death-200000-in-Property-Damage-Reported",
+"f": "Transpro US Inc., of Paterson, New Jersey",
+"k": "e-scooter"
+},
+{
+"n": "25403",
+"d": "2025-07-24",
+"t": "FENGQS Electric Bikes Recalled Due to Fire and Burn Hazards; Risk of Serious Injury or Death; Sold on Amazon",
+"u": "https://www.cpsc.gov/Recalls/2025/FENGQS-Electric-Bikes-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death-Sold-on-Amazon",
+"f": "Shenzhen Fengqisi Car Industry Co., Ltd., dba FENGQS, of China",
+"k": "e-bike"
+},
+{
+"n": "25402",
+"d": "2025-07-24",
+"t": "Apollo Recalls Electric Scooters Due to Fall and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2025/Apollo-Recalls-Electric-Scooters-Due-to-Fall-and-Injury-Hazards",
+"f": "Apollo Imports Inc., of Newark, Delaware",
+"k": "e-scooter"
+},
+{
+"n": "25391",
+"d": "2025-07-17",
+"t": "VIVI E-Bikes Lithium-ion Batteries Sold with VIVI E-Bikes Recalled Due to Fire and Burn Hazards; Risk of Serious Injury or Death; Sold by VIVI",
+"u": "https://www.cpsc.gov/Recalls/2025/VIVI-E-Bikes-Lithium-ion-Batteries-Sold-with-VIVI-E-Bikes-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death-Sold-by-VIVI",
+"f": "Guangzhou Plenty Bicycle Co., Ltd., of China",
+"k": "e-bike"
+},
+{
+"n": "25390",
+"d": "2025-07-17",
+"t": "iStore Magnetic Wireless Power Banks Recalled Due to Fire and Burn Hazards; Imported by Tomauri",
+"u": "https://www.cpsc.gov/Recalls/2025/iStore-Magnetic-Wireless-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Imported-by-Tomauri",
+"f": "Tomauri Inc., of Ontario, Canada",
+"k": "power bank"
+},
+{
+"n": "25381",
+"d": "2025-07-10",
+"t": "Giant Bicycle Recalls Momentum Vida E+ E-Bikes Due to Crash Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Giant-Bicycle-Recalls-Momentum-Vida-E-E-Bikes-Due-to-Crash-Hazard",
+"f": "Giant Bicycle Inc., of Newbury Park, California",
+"k": "e-bike"
+},
+{
+"n": "25338",
+"d": "2025-06-12",
+"t": "More than One Million Anker Power Banks Recalled Due to Fire and Burn Hazards; Manufactured by Anker Innovations",
+"u": "https://www.cpsc.gov/Recalls/2025/More-than-One-Million-Anker-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-Anker-Innovations",
+"f": "Anker Innovations Limited, of China",
+"k": "power bank"
+},
+{
+"n": "25319",
+"d": "2025-06-05",
+"t": "Specialized Bicycle Components Recalls Globe-Branded Haul ST and LT E-Bikes Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Specialized-Bicycle-Components-Recalls-Globe-Branded-Haul-ST-and-LT-E-Bikes-Due-to-Fall-Hazard",
+"f": "Specialized Bicycle Components Inc., of Morgan Hill, California",
+"k": "e-bike"
+},
+{
+"n": "25304",
+"d": "2025-05-29",
+"t": "iWALK Magnetic Wireless Power Banks Recalled Due to Fire and Burn Hazards; Manufactured by U2O Global",
+"u": "https://www.cpsc.gov/Recalls/2025/iWALK-Magnetic-Wireless-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-U2O-Global",
+"f": "U2O Global Co. Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "25248",
+"d": "2025-05-01",
+"t": "Baseus Portable Chargers Recalled Due to Fire Hazard; Sold on Amazon.com by Shenzhen Baseus Technology",
+"u": "https://www.cpsc.gov/Recalls/2025/Baseus-Portable-Chargers-Recalled-Due-to-Fire-Hazard-Sold-on-Amazon-com-by-Shenzhen-Baseus-Technology",
+"f": "Shenzhen Baseus Technology Co. Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "25244",
+"d": "2025-05-01",
+"t": "Santa Cruz Bicycles Recalls Electric Bicycles Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Santa-Cruz-Bicycles-Recalls-Electric-Bicycles-Due-to-Fire-Hazard",
+"f": "",
+"k": "e-bike"
+},
+{
+"n": "25227",
+"d": "2025-04-17",
+"t": "Casely Recalls Wireless Portable Power Banks Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2025/Casely-Recalls-Wireless-Portable-Power-Banks-Due-to-Fire-and-Burn-Hazards",
+"f": "Casely Inc., of Brookyln, New York",
+"k": "power bank"
+},
+{
+"n": "25200",
+"d": "2025-03-27",
+"t": "Specialized Bicycle Components Recalls Vado and Como IGH E-Bikes with Chain Guards Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Specialized-Bicycle-Components-Recalls-Vado-and-Como-IGH-E-Bikes-with-Chain-Guards-Due-to-Fall-Hazard",
+"f": "Specialized Bicycle Components Inc., of Morgan Hill, California",
+"k": "e-bike"
+},
+{
+"n": "25190",
+"d": "2025-03-20",
+"t": "VC Group Recalls Wireless Portable Power Banks with Lithium-Ion Batteries Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2025/VC-Group-Recalls-Wireless-Portable-Power-Banks-with-Lithium-Ion-Batteries-Due-to-Fire-and-Burn-Hazards",
+"f": "VC Group, of Brooklyn, New York",
+"k": "power bank"
+},
+{
+"n": "25149",
+"d": "2025-02-20",
+"t": "Super73 Recalls Z Miami SE and Z Adventure Core Electric Bicycles Due to Crash and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2025/Super73-Recalls-Z-Miami-SE-and-Z-Adventure-Core-Electric-Bicycles-Due-to-Crash-and-Injury-Hazards",
+"f": "Super73 Inc., of Irvine, California",
+"k": "e-bike"
+},
+{
+"n": "25138",
+"d": "2025-02-20",
+"t": "Walmart Recalls Swagtron SG-5 Swagger 5 Boost Commuter Electric Scooters with Lithium-Ion Batteries Due to Fire and Burn Hazards; Risk of Serious Injury and Death",
+"u": "https://www.cpsc.gov/Recalls/2025/Walmart-Recalls-Swagtron-SG-5-Boost-Commuter-Electric-Scooters-with-Lithium-Ion-Batteries-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-and-Death",
+"f": "Swagtron, of South Bend, Indiana",
+"k": "e-scooter"
+},
+{
+"n": "25137",
+"d": "2025-02-20",
+"t": "Trek Recalls Electra E-Bikes Due to Crash Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Trek-Recalls-Electra-E-Bikes-Due-to-Crash-Hazard",
+"f": "Trek Bicycle Corporation, of Waterloo, Wisconsin",
+"k": "e-bike"
+},
+{
+"n": "25072",
+"d": "2024-12-19",
+"t": "Charmast Power Banks Recalled Due to Fire and Burn Hazards; Sold by Charmast Exclusively on Amazon.com",
+"u": "https://www.cpsc.gov/Recalls/2025/Charmast-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Sold-by-Charmast-Exclusively-on-Amazon-com",
+"f": "",
+"k": "power bank"
+},
+{
+"n": "25061",
+"d": "2024-12-05",
+"t": "Belkin Recalls Portable Wireless Battery Chargers for Smart Watches Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2025/Belkin-Recalls-Portable-Wireless-Battery-Chargers-for-Smart-Watches-Due-to-Fire-Hazard",
+"f": "Belkin International Inc.¸ of El Segundo, California",
+"k": "power bank"
+},
+{
+"n": "25056",
+"d": "2024-12-05",
+"t": "Anker Soundcore Lithium-Ion Battery Powered Bluetooth Speakers Recalled Due to Fire Hazard; Sold Exclusively on Amazon.com by Anker Innovations",
+"u": "https://www.cpsc.gov/Recalls/2025/Anker-Soundcore-Lithium-Ion-Battery-Powered-Bluetooth-Speakers-Recalled-Due-to-Fire-Hazard-Sold-Exclusively-on-Amazon-com-by-Anker-Innovations",
+"f": "Anker Innovations Limited, of Hong Kong",
+"k": "audio"
+},
+{
+"n": "25011",
+"d": "2024-10-17",
+"t": "Anker Power Banks Recalled Due to Fire and Burn Hazards; Manufactured by Anker Innovations",
+"u": "https://www.cpsc.gov/Recalls/2025/Anker-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-Anker-Innovations",
+"f": "Anker Innovations Limited, of Hong Kong, China",
+"k": "power bank"
+},
+{
+"n": "24344",
+"d": "2024-08-15",
+"t": "IKEA Recalls VARMFRONT Power Banks Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2024/IKEA-Recalls-VARMFRONT-Power-Banks-Due-to-Fire-Hazard",
+"f": "IKEA Supply AG, of Switzerland",
+"k": "power bank"
+},
+{
+"n": "24321",
+"d": "2024-07-25",
+"t": "DGL Group Recalls Hover-1 Dynamo E-Scooters Due to Risk of Serious Injury and Crash Hazard; Sold Exclusively at Walmart.com",
+"u": "https://www.cpsc.gov/Recalls/2024/DGL-Group-Recalls-Hover-1-Dynamo-E-Scooters-Due-to-Risk-of-Serious-Injury-and-Crash-Hazard-Sold-Exclusively-at-Walmart-com",
+"f": "DGL Group Ltd., of Edison, New Jersey",
+"k": "e-scooter"
+},
+{
+"n": "24313",
+"d": "2024-07-25",
+"t": "Razor Recalls Icon Electric Scooters Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2024/Razor-Recalls-Icon-Electric-Scooters-Due-to-Fall-Hazard",
+"f": "Razor USA LLC, of Cerritos, Calif.",
+"k": "e-scooter"
+},
+{
+"n": "24287",
+"d": "2024-06-27",
+"t": "Baseus Magnetic Wireless Charging Power Banks Recalled Due to Fire Hazard; Imported by Shenzhen Baseus Technology",
+"u": "https://www.cpsc.gov/Recalls/2024/Baseus-Magnetic-Wireless-Charging-Power-Banks-Recalled-Due-to-Fire-Hazard-Imported-by-Shenzhen-Baseus-Technology",
+"f": "Shenzhen Baseus Technology Co. Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "24271",
+"d": "2024-06-20",
+"t": "myCharge Recalls POWER HUB All-In-One Portable Chargers Due to Fire and Burn Hazards; Sold Exclusively at Costco",
+"u": "https://www.cpsc.gov/Recalls/2024/myCharge-Recalls-POWER-HUB-All-In-One-Portable-Chargers-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-Costco",
+"f": "RFA Brands LLC, d/b/a myCharge, of Birmingham, Michigan",
+"k": "power bank"
+},
+{
+"n": "24122",
+"d": "2024-02-21",
+"t": "Dynabook Americas Recalls 15.5 Million Toshiba Laptop AC Adapters Due to Burn and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2024/Dynabook-Americas-Recalls-15-5-Million-Toshiba-Laptop-AC-Adapters-Due-to-Burn-and-Fire-Hazards",
+"f": "Dynabook Americas Inc., of Irvine, California (importer at the time of sale was Toshiba America Information Systems, Inc.)",
+"k": "laptop"
+},
+{
+"n": "24092",
+"d": "2024-01-25",
+"t": "Pacific Cycle Recalls E-Bikes Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2024/Pacific-Cycle-Recalls-E-Bikes-Due-to-Fire-Hazard",
+"f": "Pacific Cycle Inc., of Madison, Wisconsin",
+"k": "e-bike"
+},
+{
+"n": "24065",
+"d": "2023-12-21",
+"t": "DGL Group Recalls Hover-1 Helix Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2024/DGL-Group-Recalls-Hover-1-Helix-Hoverboards-Due-to-Fire-Hazard",
+"f": "DGL Group Ltd., of Edison, New Jersey",
+"k": "hoverboard"
+},
+{
+"n": "24031",
+"d": "2023-11-22",
+"t": "Lenovo Recalls USB-C Laptop Power Banks Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2024/Lenovo-Recalls-USB-C-Laptop-Power-Banks-Due-to-Fire-Hazard",
+"f": "Lenovo Inc., of Morrisville, North Carolina",
+"k": "power bank"
+},
+{
+"n": "24708",
+"d": "2023-11-02",
+"t": "Murf Electric Bikes Recalls Electric Bicycles Due to Fall and Injury Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2024/Murf-Electric-Bikes-Recalls-Electric-Bicycles-Due-to-Fall-and-Injury-Hazards-Recall-Alert",
+"f": "Murf Electric Bikes LLC, of San Clemente, California",
+"k": "e-bike"
+},
+{
+"n": "23299",
+"d": "2023-09-29",
+"t": "Future Motion Recalls Onewheel Self-Balancing Electric Skateboards Due to Crash Hazard; Four Deaths Reported",
+"u": "https://www.cpsc.gov/Recalls/2023/Future-Motion-Recalls-Onewheel-Self-Balancing-Electric-Skateboards-Due-to-Crash-Hazard-Four-Deaths-Reported",
+"f": "Future Motion Inc., of Santa Cruz, California",
+"k": "hoverboard"
+},
+{
+"n": "23270",
+"d": "2023-08-31",
+"t": "Apollo Recalls Phantom Electric Scooters Due to Fall and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2023/Apollo-Recalls-Phantom-Electric-Scooters-Due-to-Fall-and-Injury-Hazards",
+"f": "Apollo Imports Inc., of Newark, Delaware",
+"k": "e-scooter"
+},
+{
+"n": "23783",
+"d": "2023-08-17",
+"t": "Costco Recalls Ubio Labs Power Banks Due to Fire Hazard; Caught Fire on Commercial Flight (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2023/Costco-Recalls-Ubio-Labs-Power-Banks-Due-to-Fire-Hazard-Caught-Fire-on-Commercial-Flight-Recall-Alert",
+"f": "Ubio Labs, Inc., of Mercer Island, Washington (ceased operations)",
+"k": "power bank"
+},
+{
+"n": "23238",
+"d": "2023-07-06",
+"t": "VRURC Portable Chargers Recalled Due to Fire Hazard; Sold Exclusively on Amazon.com by VRURC; Caught Fire on Commercial Flight",
+"u": "https://www.cpsc.gov/Recalls/2023/VRURC-Portable-Chargers-Recalled-Due-to-Fire-Hazard-Sold-Exclusively-on-Amazon-com-by-VRURC-Caught-Fire-on-Commercial-Flight",
+"f": "",
+"k": "power bank"
+},
+{
+"n": "23761",
+"d": "2023-05-25",
+"t": "Bunch Bikes Recalls The Preschool Electric Bicycles Due to Violation of the Federal Lead Paint Ban; Lead Poisoning Hazard (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2023/Bunch-Bikes-Recalls-The-Preschool-Electric-Bicycles-Due-to-Violation-of-the-Federal-Lead-Paint-Ban-Lead-Poisoning-Hazard-Recall-Alert",
+"f": "Bunch Bikes Inc., of Denton, Texas",
+"k": "e-bike"
+},
+{
+"n": "23169",
+"d": "2023-03-30",
+"t": "Cannondale Recalls Tesoro Neo X Speed Electric Bicycles Due to Fall and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2023/Cannondale-Recalls-Tesoro-Neo-X-Speed-Electric-Bicycles-Due-to-Fall-and-Injury-Hazards",
+"f": "Cycling Sports Group Inc., of Wilton, Connecticut",
+"k": "e-bike"
+},
+{
+"n": "23165",
+"d": "2023-03-30",
+"t": "Jetson Electric Bikes Recalls 42-Volt Rogue Self-Balancing Scooters/Hoverboards Due to Fire Hazard; Two Deaths Reported",
+"u": "https://www.cpsc.gov/Recalls/2023/Jetson-Electric-Bikes-Recalls-42-Volt-Rogue-Self-Balancing-Scooters-Hoverboards-Due-to-Fire-Hazard-Two-Deaths-Reported",
+"f": "",
+"k": "e-bike"
+},
+{
+"n": "23147",
+"d": "2023-03-09",
+"t": "Fantasia Trading Recalls Anker Power Banks Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2023/Fantasia-Trading-Recalls-Anker-Power-Banks-Due-to-Fire-Hazard",
+"f": "Fantasia Trading LLC, of Ontario, California",
+"k": "power bank"
+},
+{
+"n": "23727",
+"d": "2023-02-16",
+"t": "Linus Bike Recalls Electric Bicycles Due to Crash Hazard (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2023/Linus-Bike-Recalls-Electric-Bicycles-Due-to-Crash-Hazard-Recall-Alert",
+"f": "Shenzhen Xidesheng Bicycle Co Ltd, of China; Linus Bike Inc., of Venice, California",
+"k": "e-bike"
+},
+{
+"n": "23716",
+"d": "2022-12-15",
+"t": "E-Bikes Recalled Due to Fire and Burn Hazards; Distributed by Gyroor (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2023/E-Bikes-Recalled-Due-to-Fire-and-Burn-Hazards-Distributed-by-Gyroor-Recall-Alert",
+"f": "Shenzhen Chirrey Technology Co., Ltd., of China",
+"k": "e-bike"
+},
+{
+"n": "23007",
+"d": "2022-10-13",
+"t": "E-Bikes Recalled Due to Fire, Explosion and Burn Hazards; Distributed by Ancheer",
+"u": "https://www.cpsc.gov/Recalls/2023/E-Bikes-Recalled-Due-to-Fire-Explosion-and-Burn-Hazards-Distributed-by-Ancheer",
+"f": "",
+"k": "e-bike"
+},
+{
+"n": "22155",
+"d": "2022-06-09",
+"t": "Brompton Bicycle Recalls Foldable Electric Bicycles Due to Crash and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2022/Brompton-Bicycle-Recalls-Foldable-Electric-Bicycles-Due-to-Crash-and-Injury-Hazards",
+"f": "Brompton Bicycle Inc., of Brooklyn, New York",
+"k": "e-bike"
+},
+{
+"n": "22135",
+"d": "2022-05-19",
+"t": "DGL Group Recalls Hover-1 Superfly Hoverboards Due to Fall and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2022/DGL-Group-Recalls-Hover-1-Superfly-Hoverboards-Due-to-Fall-and-Injury-Hazards",
+"f": "DGL Group LTD., of Edison, New Jersey",
+"k": "hoverboard"
+},
+{
+"n": "22132",
+"d": "2022-05-05",
+"t": "Santa Cruz Bicycles Recalls Heckler 9 Electric Bicycles Due to Fall and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2022/Santa-Cruz-Bicycles-Recalls-Heckler-9-Electric-Bicycles-Due-to-Fall-and-Fire-Hazards",
+"f": "Santa Cruz Bicycles LLC, of Santa Cruz, California",
+"k": "e-bike"
+},
+{
+"n": "22737",
+"d": "2022-03-31",
+"t": "SOUNDBOKS Recalls Bluetooth Speakers with Lithium-Ion Batteries Due to Fire Hazard (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2022/SOUNDBOKS-Recalls-Bluetooth-Speakers-with-Lithium-Ion-Batteries-Due-to-Fire-Hazard-Recall-Alert",
+"f": "SOUNDBOKS Inc., of Santa Monica, California",
+"k": "audio"
+},
+{
+"n": "22089",
+"d": "2022-03-02",
+"t": "Fitbit Recalls Ionic Smartwatches Due to Burn Hazard; One Million Sold in the U.S.",
+"u": "https://www.cpsc.gov/Recalls/2022/Fitbit-Recalls-Ionic-Smartwatches-Due-to-Burn-Hazard-One-Million-Sold-in-the-U-S",
+"f": "Fitbit LLC (f/k/a Fitbit, Inc.), of San Francisco, Calif.",
+"k": "audio"
+},
+{
+"n": "22030",
+"d": "2021-12-15",
+"t": "Pacific Cycle Recalls Schwinn Electric Scooters Due to Fall and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2022/Pacific-Cycle-Recalls-Schwinn-Electric-Scooters-Due-to-Fall-and-Injury-Hazards",
+"f": "Mast Work Handicraft Co. Ltd., of China; Pacific Cycle Inc., of Madison, Wisconsin; Cycling Sports Group, Inc., of Wilton, Connecticut",
+"k": "e-scooter"
+},
+{
+"n": "21189",
+"d": "2021-08-25",
+"t": "Razor USA Recalls GLW Battery Packs Sold with Hovertrax 2.0 Self-Balancing Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2021/Razor-USA-Recalls-GLW-Battery-Packs-Sold-with-Hovertrax-2-0-Self-Balancing-Hoverboards-Due-to-Fire-Hazard",
+"f": "Razor USA LLC, of Cerritos, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "21110",
+"d": "2021-04-14",
+"t": "Audio-Technica Recalls Charging Cases Sold with Wireless Headphones Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2021/Audio-Technica-Recalls-Charging-Cases-Sold-with-Wireless-Headphones-Due-to-Fire-Hazard",
+"f": "Audio-Technica U.S. Inc., of Stow, Ohio",
+"k": "audio"
+},
+{
+"n": "21037",
+"d": "2020-11-25",
+"t": "Towsleys Recalls 3-in-1 Qi Wireless Chargers, Power Banks and Travel Chargers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2021/Towsleys-Recalls-3-in-1-Qi-Wireless-Chargers-Power-Banks-and-Travel-Chargers-Due-to-Fire-Hazard",
+"f": "Shenzhen Huani Electronics Co. Ltd., of China; Concap Sportswear LLC, of Fair Lawn, N.J.",
+"k": "power bank"
+},
+{
+"n": "21003",
+"d": "2020-10-07",
+"t": "Endliss Technology Recalls Trianium Battery Phone Cases Due to Burn Hazard; Sold Exclusively on Amazon.com",
+"u": "https://www.cpsc.gov/Recalls/2021/Endliss-Technology-Recalls-Trianium-Battery-Phone-Cases-Due-to-Burn-Hazard-Sold-Exclusively-on-Amazon-com",
+"f": "Endliss Technology Inc., of Hayward, Calif.",
+"k": "phone"
+},
+{
+"n": "20188",
+"d": "2020-09-23",
+"t": "Pedego Recalls Electric Bikes Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2020/Pedego-Recalls-Electric-Bikes-Due-to-Fall-Hazard",
+"f": "Pedego Inc., of Fountain Valley, Calif.",
+"k": "e-bike"
+},
+{
+"n": "20058",
+"d": "2020-01-23",
+"t": "PCNA Recalls Power Banks Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2020/PCNA-Recalls-Power-Banks-Due-to-Fire-and-Burn-Hazards",
+"f": "PCNA of New Kensington, Pa., owner of Leedsworld Inc.",
+"k": "power bank"
+},
+{
+"n": "20035",
+"d": "2019-12-06",
+"t": "Trek Recalls Super Commuter+ Electric Bicycles Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2020/Trek-Recalls-Super-Commuter-Electric-Bicycles-Due-to-Fall-Hazard",
+"f": "Trek Bicycle Corporation, of Waterloo, Wis.",
+"k": "e-bike"
+},
+{
+"n": "20013",
+"d": "2019-10-29",
+"t": "Michaels Recalls Tassel Keychain Mobile Power Banks Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2020/Michaels-Recalls-Tassel-Keychain-Mobile-Power-Banks-Due-to-Fire-and-Burn-Hazards",
+"f": "Michaels Stores Procurement Co. Inc. (MSPCI), a subsidiary of The Michaels Companies Inc., of Irving, Texas",
+"k": "power bank"
+},
+{
+"n": "19188",
+"d": "2019-08-27",
+"t": "Happy Plugs Recalls Wireless Headphones Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Happy-Plugs-Recalls-Wireless-Headphones-Due-to-Burn-Hazard",
+"f": "Happy Plugs Inc., of New York",
+"k": "audio"
+},
+{
+"n": "19156",
+"d": "2019-07-02",
+"t": "Electric Bicycles Recalled by Faraday; Seat Post Poses Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Electric-Bicycles-Recalled-by-Faraday-Seat-Post-Poses-Fall-Hazard",
+"f": "Faraday Bicycles Inc., of Santa Cruz, Calif.",
+"k": "e-bike"
+},
+{
+"n": "19152",
+"d": "2019-06-27",
+"t": "Apple Recalls 15-Inch MacBook Pro Laptop Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Apple-Recalls-15-Inch-MacBook-Pro-Laptop-Computers-Due-to-Fire-Hazard",
+"f": "Apple Inc., of Cupertino, Calif.",
+"k": "laptop"
+},
+{
+"n": "19096",
+"d": "2019-04-02",
+"t": "Spector & Co. Recalls Power Bank Chargers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Spector--Co-Recalls-Power-Bank-Chargers-Due-to-Fire-Hazard",
+"f": "Shenzhen Casun Technology Co. Ltd., of China",
+"k": "power bank"
+},
+{
+"n": "19090",
+"d": "2019-03-26",
+"t": "Rechargeable Power Banks Recalled by Daniel M. Friedman & Associates Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Rechargeable-Power-Banks-Recalled-by-Daniel-M-Friedman-and-Associates-Due-to-Fire-Hazard",
+"f": "Yiwu City Fuman Leather & Accessories Co., Ltd., of China; Daniel M. Friedman & Associates, a division of Steven Madden, Ltd. of Long Island City, N.Y.",
+"k": "power bank"
+},
+{
+"n": "19729",
+"d": "2019-03-19",
+"t": "myStromer Recalls Electric Bicycles Due to Crash and Injury Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2019/myStromer-Recalls-Electric-Bicycles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+"f": "myStromerUSA Corp., dba Stromer, a subsidiary of myStromer AG, of Vista, Calif.",
+"k": "e-bike"
+},
+{
+"n": "19079",
+"d": "2019-03-12",
+"t": "HP Expands Recall of Batteries for Notebook Computers and Mobile Workstations Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2019/HP-Expands-Recall-of-Batteries-for-Notebook-Computers-and-Mobile-Workstations-Due-to-Fire-and-Burn-Hazards",
+"f": "HP Inc., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "19060",
+"d": "2019-02-06",
+"t": "Dell Recalls Hybrid Power Adapters Sold with Power Banks Due to Shock Hazard",
+"u": "https://www.cpsc.gov/Recalls/2019/Dell-Recalls-Hybrid-Power-Adapters-Sold-with-Power-Banks-Due-to-Shock-Hazard",
+"f": "Lite-On Technology Corporation of Taipei, Taiwan; Dell Inc. of Round Rock, Texas",
+"k": "power bank"
+},
+{
+"n": "18200",
+"d": "2018-08-02",
+"t": "Clean Republic Recalls Hill Topper Electric Bike Motor Controllers Due to Crash and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Clean-Republic-Recalls-Hill-Topper-Electric-Bike-Motor-Controllers-Due-to-Crash-and-Injury-Hazards",
+"f": "Bafang Electric (Suzhou) Co. Ltd., China.; Clean Republic SODO LLC, dba \"UKKO,\" Seattle, Wash.",
+"k": "e-bike"
+},
+{
+"n": "18138",
+"d": "2018-04-05",
+"t": "Mizco International Recalls Power Bank Charging Stations Due to Fire and Burn Hazards; Sold at The Container Store",
+"u": "https://www.cpsc.gov/Recalls/2018/Mizco-International-Recalls-Power-Bank-Charging-Stations-Due-to-Fire-and-Burn-Hazards-Sold-at-The-Container-Store",
+"f": "Mizco International Inc., of Avenel, N.J",
+"k": "power bank"
+},
+{
+"n": "18728",
+"d": "2018-03-13",
+"t": "Amazon Recalls Portable Power Banks Due to Fire and Chemical Burn Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2018/Amazon-Recalls-Portable-Power-Banks-Due-to-Fire-and-Chemical-Burn-Hazards-Recall-Alert",
+"f": "Guoguang Electric Company Limited, of China",
+"k": "power bank"
+},
+{
+"n": "18096",
+"d": "2018-02-08",
+"t": "Fujitsu Recalls Battery Packs for Fujitsu Notebook Computers and Workstations Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Fujitsu-Recalls-Battery-Packs-for-Fujitsu-Notebook-Computers-and-Workstations-Due-to-Fire-and-Burn-Hazards",
+"f": "Fujitsu Limited (Computers); Panasonic Corporation (Battery Packs); Fujitsu America Inc., of Sunnyvale, Calif.",
+"k": "laptop"
+},
+{
+"n": "18094",
+"d": "2018-02-06",
+"t": "Lenovo Recalls ThinkPad Laptops Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2018/Lenovo-Recalls-ThinkPad-Laptops-Due-to-Fire-Hazard",
+"f": "Lenovo PC, of Hong Kong; Lenovo Inc., of Morrisville, N.C.",
+"k": "laptop"
+},
+{
+"n": "18079",
+"d": "2018-01-16",
+"t": "Fujifilm Recalls Power Adapter Wall Plugs Sold with Digital Cameras Due to Shock Hazard",
+"u": "https://www.cpsc.gov/Recalls/2018/Fujifilm-Recalls-Power-Adapter-Wall-Plugs-Sold-with-Digital-Cameras-Due-to-Shock-Hazard",
+"f": "FUJIFILM North America Corporation, of Valhalla, N.Y.",
+"k": "camera"
+},
+{
+"n": "18077",
+"d": "2018-01-04",
+"t": "HP Recalls Batteries for Notebook Computers and Mobile Workstations Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/HP-Recalls-Batteries-for-Notebook-Computers-and-Mobile-Workstations-Due-to-Fire-and-Burn-Hazards",
+"f": "HP Inc., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "18034",
+"d": "2017-11-14",
+"t": "Smart Balance Wheel Self-Balancing Scooters/Hoverboards Recalled by Salvage World Due to Explosion and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Smart-Balance-Wheel-SelfBalancing-ScootersHoverboards-Recalled-by-Salvage-World-Due-to-Explosion-and-Fire-Hazards",
+"f": "Salvage World, of Hattiesburg, Miss.",
+"k": "hoverboard"
+},
+{
+"n": "18032",
+"d": "2017-11-14",
+"t": "Sonic Smart Wheels Self-Balancing Scooters/Hoverboards Recalled by Dollar Mania Due to Explosion and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Sonic-Smart-Wheels-SelfBalancing-ScootersHoverboards-Recalled-by-Dollar-Mania-Due-to-Explosion-and-Fire-Hazards",
+"f": "Dollar Mania, of Bossier City, La.",
+"k": "hoverboard"
+},
+{
+"n": "18031",
+"d": "2017-11-14",
+"t": "Tech Drift Recalls Self-Balancing Scooters/Hoverboards Due to Fire and Explosion Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Tech-Drift-Recalls-SelfBalancing-ScootersHoverboards-Due-to-Fire-and-Explosion-Hazards",
+"f": "Tech Drift, of Los Angeles, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "18030",
+"d": "2017-11-14",
+"t": "iLive Self-Balancing Scooters/Hoverboards Recalled by Digital Products Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2018/iLive-SelfBalancing-ScootersHoverboards-Recalled-by-Digital-Products-Due-to-Fire-Hazard",
+"f": "Digital Products International Inc., of St. Louis, Mo.",
+"k": "hoverboard"
+},
+{
+"n": "18029",
+"d": "2017-11-14",
+"t": "iHoverspeed Self-Balancing Scooters/Hoverboards Recalled by Simplified Wireless Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2018/iHoverspeed-SelfBalancing-ScootersHoverboards-Recalled-by-Simplified-Wireless-Due-to-Fire-Hazard",
+"f": "Simplified Wireless, of Element, N.Y.",
+"k": "hoverboard"
+},
+{
+"n": "18028",
+"d": "2017-11-14",
+"t": "Go Wheels Self-Balancing Scooters/Hoverboards Recalled by Four Star Imports Due to Fire and Explosion Hazards; Sold Exclusively at Village Mart",
+"u": "https://www.cpsc.gov/Recalls/2018/Go-Wheels-SelfBalancing-ScootersHoverboards-Recalled-by-Four-Star-Imports-Due-to-Fire-and-Explosion-Hazards-Sold-Exclusively-at-Village-Mart",
+"f": "Four Star Imports, of Memphis, Tenn.",
+"k": "hoverboard"
+},
+{
+"n": "18027",
+"d": "2017-11-14",
+"t": "Drone Nerds Recalls Self-Balancing Scooters/Hoverboards Due to Fire and Explosion Hazards",
+"u": "https://www.cpsc.gov/Recalls/2018/Drone-Nerds-Recalls-SelfBalancing-ScootersHoverboards-Due-to-Fire-and-Explosion-Hazards",
+"f": "Drone Nerds Inc., of Aventura, Fla.",
+"k": "hoverboard"
+},
+{
+"n": "17193",
+"d": "2017-07-24",
+"t": "iRover Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2017/iRover-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "iRover LLC, of Fair Lawn, N.J.",
+"k": "hoverboard"
+},
+{
+"n": "17754",
+"d": "2017-07-11",
+"t": "Superpedestrian Recalls Electric Bicycle Conversion Wheels Due to Fall and Crash Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2017/Superpedestrian-Recalls-Electric-Bicycle-Conversion-Wheels-Recall-Alert",
+"f": "Superpedestrian Inc., of Cambridge, Mass.",
+"k": "e-bike"
+},
+{
+"n": "17115",
+"d": "2017-03-23",
+"t": "Vecaro LifeStyle Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2017/Vecaro-LifeStyle-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Vecaro LifeStyle, of Cerritos, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "17114",
+"d": "2017-03-23",
+"t": "Haibike Recalls Electric Bicycles Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2017/Haibike-Recalls-Electric-Bicycles",
+"f": "Haibike, of Denver, Colo., owned by Accell North America",
+"k": "e-bike"
+},
+{
+"n": "17732",
+"d": "2017-02-07",
+"t": "Sony Expands Recall of VAIO Laptop Computer Battery Packs Due to Burn and Fire Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2017/Sony-Expands-Recall-of-VAIO-Laptop-Computer-Battery-Packs",
+"f": "SANYO ENERGY (Suzhou) CO, Ltd. of China, Panasonic subsidiary; Sony Electronics, Inc., of San Diego, Calif.",
+"k": "laptop"
+},
+{
+"n": "17072",
+"d": "2017-01-24",
+"t": "Pulse Performance Recalls Children's Electric Scooters Due to Fall Hazard; Sold Exclusively at Target",
+"u": "https://www.cpsc.gov/Recalls/2017/Pulse-Performance-Recalls-Childrens-Electric-Scooters",
+"f": "Pulse Performance Products, a division of Bravo Sports, of Santa Fe Springs, Calif.; Target Corp., of Minneapolis, Minn.",
+"k": "e-scooter"
+},
+{
+"n": "17071",
+"d": "2017-01-24",
+"t": "HP Expands Recall of Batteries for HP and Compaq Notebook Computers Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2017/HP-Expands-Recall-of-Batteries-for-HP-and-Compaq-Notebook-Computers",
+"f": "HP Inc., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "17064",
+"d": "2017-01-04",
+"t": "Toshiba Expands Recall of Laptop Computer Battery Packs Due to Burn and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2017/Toshiba-Expands-Recall-of-Laptop-Computer-Battery-Packs",
+"f": "Panasonic, of Japan; Toshiba America Information Systems Inc., of Irvine, Calif.",
+"k": "laptop"
+},
+{
+"n": "17051",
+"d": "2016-12-13",
+"t": "World Trading Recalls Orbit Self-Balancing Scooters/Hoverboards Due to Fire Hazard; Sold by Evine",
+"u": "https://www.cpsc.gov/Recalls/2017/World-Trading-Recalls-Orbit-Self-Balancing-Scooters-and-Hoverboards",
+"f": "World Trading, of Valencia, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "17011",
+"d": "2016-10-13",
+"t": "Samsung Expands Recall of Galaxy Note7 Smartphones Based on Additional Incidents with Replacement Phones; Serious Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2017/Samsung-Expands-Recall-of-Galaxy-Note7-Smartphones-Based-on-Additional-Incidents-with-Replacement-Phones",
+"f": "Samsung Electronics America Inc., of Ridgefield Park, N.J.",
+"k": "phone"
+},
+{
+"n": "17700",
+"d": "2016-10-03",
+"t": "Glion Electric Scooters Recalled by Probity Cell Due to Fall Hazard (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2017/Glion-Electric-Scooters-Recalled-by-Probity-Cell",
+"f": "Probity Cell LLC, of Holdrege, Neb.",
+"k": "e-scooter"
+},
+{
+"n": "16266",
+"d": "2016-09-15",
+"t": "Samsung Recalls Galaxy Note7 Smartphones Due to Serious Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2016/Samsung-Recalls-Galaxy-Note7-Smartphones",
+"f": "Samsung Electronics America Inc., of Ridgefield Park, N.J.",
+"k": "phone"
+},
+{
+"n": "16220",
+"d": "2016-07-07",
+"t": "URBAN626 Recalls Electric Scooters Due to Fall Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/URBAN626-Recalls-Electric-Scooters",
+"f": "URBAN626, LLC, of Pasadena, Calif.",
+"k": "e-scooter"
+},
+{
+"n": "16218",
+"d": "2016-07-06",
+"t": "Self-Balancing Scooters/Hoverboards Recalled by 10 Firms Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Self-Balancing-Scooters-Hoverboards-Recalled-by-10-Firms",
+"f": "See Chart Above",
+"k": "hoverboard"
+},
+{
+"n": "16217",
+"d": "2016-07-06",
+"t": "Hype Wireless Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Hype-Wireless-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Hype Wireless Ltd, of Edison, N.J.",
+"k": "hoverboard"
+},
+{
+"n": "16216",
+"d": "2016-07-06",
+"t": "Keenford Limited Recalls Self-Balancing Scooters/ Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Keenford-Limited-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Keenford Limited, of Lynbrook, N.Y.",
+"k": "hoverboard"
+},
+{
+"n": "16215",
+"d": "2016-07-06",
+"t": "Razor Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Razor-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Razor USA LLC, of Cerritos, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "16214",
+"d": "2016-07-06",
+"t": "Overstock.com Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Overstock-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Overstock.com, of Salt Lake City, Utah",
+"k": "hoverboard"
+},
+{
+"n": "16213",
+"d": "2016-07-06",
+"t": "Digital Gadgets Recalls Self-Balancing Scooters/ Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Digital-Gadgets-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Digital Gadgets LLC, of Monroe, N.J.",
+"k": "hoverboard"
+},
+{
+"n": "16212",
+"d": "2016-07-06",
+"t": "Boscov's Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Self-Balancing-Scooters-Hoverboards",
+"f": "",
+"k": "hoverboard"
+},
+{
+"n": "16211",
+"d": "2016-07-06",
+"t": "Swagway Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Swagway-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Swagway LLC, of South Bend, Ind.",
+"k": "hoverboard"
+},
+{
+"n": "16210",
+"d": "2016-07-06",
+"t": "Hoverboard LLC Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Hoverboard-LLC-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "PSDI, of Orem, Utah",
+"k": "hoverboard"
+},
+{
+"n": "16209",
+"d": "2016-07-06",
+"t": "Yuka Clothing Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Yuka-Clothing-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "Yuka Clothing, of Miami, Fla.",
+"k": "hoverboard"
+},
+{
+"n": "16208",
+"d": "2016-07-06",
+"t": "PTX Performance Products Recalls Self-Balancing Scooters/Hoverboards Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/PTX-Performance-Products-Recalls-Self-Balancing-Scooters-Hoverboards",
+"f": "PTX Performance Products USA, of Irvine, Calif.",
+"k": "hoverboard"
+},
+{
+"n": "16202",
+"d": "2016-06-23",
+"t": "HP Recalls Batteries for HP and Compaq Notebook Computers Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2016/HP-Recalls-Batteries-for-HP-and-Compaq-Notebook-Computers",
+"f": "HP Inc., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "16197",
+"d": "2016-06-15",
+"t": "Sony Recalls VAIO Laptop Computer Battery Packs Due to Burn and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2016/Sony-Recalls-VAIO-Laptop-Computer-Battery-Packs",
+"f": "SANYO ENERGY (Suzhou) CO, Ltd. of China, Panasonic subsidiary; Sony Electronics, Inc., of San Diego, Calif.",
+"k": "laptop"
+},
+{
+"n": "16131",
+"d": "2016-03-30",
+"t": "Toshiba Recalls Laptop Computer Battery Packs Due to Burn and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2016/Toshiba-Recalls-Laptop-Computer-Battery-Packs",
+"f": "Panasonic, of Japan; Toshiba America Information Systems Inc., of Irvine, Calif.",
+"k": "laptop"
+},
+{
+"n": "16126",
+"d": "2016-03-21",
+"t": "Panasonic Recalls Lithium-ion Laptop Battery Packs Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2016/Panasonic-Recalls-Lithium-ion-Laptop-Battery-Packs",
+"f": "Panasonic Corporation of North America, of Newark, N.J.",
+"k": "laptop"
+},
+{
+"n": "15249",
+"d": "2015-09-24",
+"t": "Fujitsu America Recalls Battery Packs for Fujitsu Notebook Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2015/Fujitsu-America-Recalls-Battery-Packs-for-Fujitsu-Notebook-Computers",
+"f": "Fujitsu America Inc., of Sunnyvale, Calif.",
+"k": "laptop"
+},
+{
+"n": "15248",
+"d": "2015-09-23",
+"t": "CleggPromo Recalls CPB-100 Power Banks Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2015/CleggPromo-Recalls-Power-Banks",
+"f": "Sinotec Technology, of Hong Kong, China",
+"k": "power bank"
+},
+{
+"n": "15228",
+"d": "2015-09-01",
+"t": "MiWorld Accessories Recalls Plug-in Wall Chargers for iPhones Due to Fire Hazard; Sold Exclusively at Charlotte Russe Stores",
+"u": "https://www.cpsc.gov/Recalls/2015/MiWorld-Accessories-Recalls-Plug-in-Wall-Chargers-for-iPhones",
+"f": "MiWorld Accessories LLC, of New York",
+"k": "phone"
+},
+{
+"n": "15204",
+"d": "2015-07-31",
+"t": "NVIDIA Recalls Tablet Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2015/NVIDIA-Recalls-Tablet-Computers",
+"f": "NVIDIA Corp., of Santa Clara, Calif.",
+"k": "tablet"
+},
+{
+"n": "15124",
+"d": "2015-04-29",
+"t": "Pedego Recalls Electric Bicycle Batteries Due To Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2015/Pedego-Recalls-Electric-Bicycle-Batteries",
+"f": "Pedego Inc., of Irvine, Calif.",
+"k": "e-bike"
+},
+{
+"n": "15117",
+"d": "2015-04-21",
+"t": "Lenovo Expands Recall of Battery Packs for ThinkPad Notebook Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2015/Lenovo-Expands-Recall-of-Battery-Packs-for-ThinkPad-Notebook-Computers",
+"f": "Lenovo Inc., of Morrisville, N.C.",
+"k": "laptop"
+},
+{
+"n": "15030",
+"d": "2014-11-19",
+"t": "AP Specialties Recalls Power Bank Chargers",
+"u": "https://www.cpsc.gov/Recalls/2015/AP-Specialties-Recalls-Power-Bank-Chargers",
+"f": "Alumni Partners dba AP Specialties of San Clemente, Calif.",
+"k": "power bank"
+},
+{
+"n": "14262",
+"d": "2014-08-26",
+"t": "Hewlett-Packard Recalls Notebook Computer AC Power Cords Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2014/Hewlett-Packard-Recalls-Notebook-Computer-AC-Power-Cords",
+"f": "Hewlett-Packard Company (HP), of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "14220",
+"d": "2014-07-01",
+"t": "Sony Recalls VAIO Flip PC Laptops Due to Fire and Burn Hazards",
+"u": "https://www.cpsc.gov/Recalls/2014/Sony-Recalls-VAIO-Flip-PC-Laptops",
+"f": "Sony Electronics Inc. of San Diego, Calif.",
+"k": "laptop"
+},
+{
+"n": "14142",
+"d": "2014-03-27",
+"t": "Lenovo Recalls Battery Packs for ThinkPad Notebook Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2014/Lenovo-Recalls-Battery-Packs-for-ThinkPad-Notebook-Computers",
+"f": "Lenovo Inc., of Morrisville, N.C.",
+"k": "laptop"
+},
+{
+"n": "14130",
+"d": "2014-03-13",
+"t": "BMC Recalls Stromer Electric Bicycles Due to Crash and Injury Hazards",
+"u": "https://www.cpsc.gov/Recalls/2014/BMC-Recalls-Stromer-Electric-Bicycles",
+"f": "MyStromer AG, of Switzerland",
+"k": "e-bike"
+},
+{
+"n": "14061",
+"d": "2013-12-17",
+"t": "Google and HP Recall HP Chromebook 11 Chargers Due to Fire and Burn Hazards; Charger Can Overheat and Melt",
+"u": "https://www.cpsc.gov/Recalls/2014/Google-and-HP-Recall-HP-Chromebook-11-Chargers",
+"f": "Google Inc., of Mountain View, Calif.",
+"k": "laptop"
+},
+{
+"n": "13739",
+"d": "2013-06-19",
+"t": "Best Buy Recalls ATG Replacement Batteries for the MacBook Pro Due to Fire, Burn Hazards (Recall Alert)",
+"u": "https://www.cpsc.gov/Recalls/2013/Best-Buy-Recalls-ATG-Replacement-Batteries-for-the-MacBook-Pro",
+"f": "BTI Corp., of Las Vegas",
+"k": "laptop"
+},
+{
+"n": "12048",
+"d": "2011-11-30",
+"t": "Rocketfish Battery Case for iPhone 3G/3GS Recalled by Best Buy Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2012/Rocketfish-Battery-Case-for-iPhone-3G3GS-Recalled-by-Best-Buy-Due-to-Fire-Hazard",
+"f": "Best Buy Co. Inc., of Richfield, Minn.",
+"k": "phone"
+},
+{
+"n": "11234",
+"d": "2011-05-27",
+"t": "HP Expands Recall of Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2011/HP-Expands-Recall-of-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Hewlett-Packard Company, of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "10330",
+"d": "2010-09-02",
+"t": "Toshiba Recalls T Series Notebook Computers Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/Toshiba-Recalls-T-Series-Notebook-Computers-Due-to-Burn-Hazard",
+"f": "Toshiba America Information Systems Inc., of Irvine, Calif.",
+"k": "laptop"
+},
+{
+"n": "10752",
+"d": "2010-08-10",
+"t": "Asurion Recalls Counterfeit BlackBerry-branded Batteries Due to Burn and Fire Hazards",
+"u": "https://www.cpsc.gov/Recalls/2010/Asurion-Recalls-Counterfeit-BlackBerry-branded-Batteries-Due-to-Burn-and-Fire-Hazards",
+"f": "",
+"k": "phone"
+},
+{
+"n": "10744",
+"d": "2010-07-01",
+"t": "Tekkeon Inc. Recalls MyPower ALL Plus External Laptop Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/Tekkeon-Inc-Recalls-MyPower-ALL-Plus-External-Laptop-Batteries-Due-to-Fire-Hazard",
+"f": "Tekkeon Inc. of Tustin, Calif.",
+"k": "laptop"
+},
+{
+"n": "10284",
+"d": "2010-06-30",
+"t": "Sony Recalls VAIO Laptop Computers Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/Sony-Recalls-VAIO-Laptop-Computers-Due-to-Burn-Hazard",
+"f": "Sony Electronics Inc. of San Diego, Calif.",
+"k": "laptop"
+},
+{
+"n": "10240",
+"d": "2010-05-21",
+"t": "HP Expands Recall of Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/HP-Expands-Recall-of-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Hewlett-Packard Co., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "10214",
+"d": "2010-04-30",
+"t": "Comarco Recalls Power Adapters for Laptops Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/Comarco-Recalls-Power-Adapters-for-Laptops-Due-to-Burn-Hazard",
+"f": "Comarco Inc. of, Lake Forest, Calif.",
+"k": "laptop"
+},
+{
+"n": "10103",
+"d": "2010-01-07",
+"t": "Acer Recalls Notebook Computers Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2010/Acer-Recalls-Notebook-Computers-Due-to-Burn-Hazard",
+"f": "Acer America Corporation, of San Jose, Calif.",
+"k": "laptop"
+},
+{
+"n": "09744",
+"d": "2009-05-22",
+"t": "Samsung Recalls to Upgrade Certain Cell Phones; Could Fail to Reach Emergency 911 in a No-Service Area",
+"u": "https://www.cpsc.gov/Recalls/2009/Samsung-Recalls-to-Upgrade-Certain-Cell-Phones-Could-Fail-to-Reach-Emergency-911-in-a-No-Service-Area",
+"f": "Samsung Telecommunications America, of Richardson, Texas",
+"k": "phone"
+},
+{
+"n": "09221",
+"d": "2009-05-14",
+"t": "HP Recalls Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2009/HP-Recalls-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Hewlett-Packard Co., of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "09724",
+"d": "2009-02-27",
+"t": "Certain LG 830 \"Spyder\" Cell Phones Recalled For Upgrade Due to Dropped Connection or Poor Connection on Emergency 911 Calls",
+"u": "https://www.cpsc.gov/Recalls/2009/Certain-LG-830-Spyder-Cell-Phones-Recalled-For-Upgrade-Due-to-Dropped-Connection-or-Poor-Connection-on-Emergency-911-Calls",
+"f": "LG Electronics MobileComm USA Inc., of San Diego, Calif.",
+"k": "phone"
+},
+{
+"n": "09035",
+"d": "2008-10-30",
+"t": "PC Notebook Computer Batteries Recalled Due to Fire and Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2009/PC-Notebook-Computer-Batteries-Recalled-Due-to-Fire-and-Burn-Hazard",
+"f": "Sony Energy Devices Corporation, of Japan",
+"k": "laptop"
+},
+{
+"n": "09707",
+"d": "2008-10-28",
+"t": "Power Adapters Used with Notebook Computers Recalled by Battery-Biz Due To Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2009/Power-Adapters-Used-with-Notebook-Computers-Recalled-by-Battery-Biz-Due-To-Burn-Hazard",
+"f": "Battery-Biz Inc., of Camarillo, Calif.",
+"k": "laptop"
+},
+{
+"n": "08392",
+"d": "2008-09-04",
+"t": "Sony Recalls Notebook Computers Due to Burn Hazard",
+"u": "https://www.cpsc.gov/Recalls/2008/Sony-Recalls-Notebook-Computers-Due-to-Burn-Hazard",
+"f": "Sony Electronics Inc., of San Diego, Calif.",
+"k": "laptop"
+},
+{
+"n": "08572",
+"d": "2008-05-20",
+"t": "Cricket EZ Cell Phones Recalled; Audio Problem Interferes with Emergency 911 Calls",
+"u": "https://www.cpsc.gov/Recalls/2008/Cricket-EZ-Cell-Phones-Recalled-Audio-Problem-Interferes-with-Emergency-911-Calls",
+"f": "",
+"k": "phone"
+},
+{
+"n": "08013",
+"d": "2007-10-05",
+"t": "Razor USA Recalls E300 Electric Scooters; Handlebars Can Detach Causing Loss of Control",
+"u": "https://www.cpsc.gov/Recalls/2008/Razor-USA-Recalls-E300-Electric-Scooters-Handlebars-Can-Detach-Causing-Loss-of-Control",
+"f": "Razor USA LLC, of Cerritos, Calif.",
+"k": "e-scooter"
+},
+{
+"n": "07267",
+"d": "2007-08-09",
+"t": "Toshiba Recalls Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2007/Toshiba-Recalls-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Sony Energy Devices Corp., of Japan (battery cells); Toshiba America Information Systems Inc., of Irvine, Calif. (computers)",
+"k": "laptop"
+},
+{
+"n": "07219",
+"d": "2007-06-19",
+"t": "Gateway Inc. Recalls Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2007/Gateway-Inc-Recalls-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "",
+"k": "laptop"
+},
+{
+"n": "07167",
+"d": "2007-04-25",
+"t": "Acer America Corporation Recalls Notebook Computer Batteries Due to Previous Fires",
+"u": "https://www.cpsc.gov/Recalls/2007/Acer-America-Corporation-Recalls-Notebook-Computer-Batteries-Due-to-Previous-Fires",
+"f": "Acer Inc., of Taiwan (computers); Sony Energy Devices Corp., of Japan (battery cells); Acer America Corporation, of San Jose, Calif.",
+"k": "laptop"
+},
+{
+"n": "07118",
+"d": "2007-03-01",
+"t": "Lenovo Recalls ThinkPad Notebook PC Extended-Life Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2007/Lenovo-Recalls-ThinkPad-Notebook-PC-Extended-Life-Batteries-Due-to-Fire-Hazard",
+"f": "Sanyo Electric Co. Ltd., of Japan",
+"k": "laptop"
+},
+{
+"n": "07011",
+"d": "2006-10-23",
+"t": "Sony Recalls Notebook Computer Batteries Due to Previous Fires",
+"u": "https://www.cpsc.gov/Recalls/2007/Sony-Recalls-Notebook-Computer-Batteries-Due-to-Previous-Fires",
+"f": "Sony Energy Devices Corp., of Japan",
+"k": "laptop"
+},
+{
+"n": "06270",
+"d": "2006-09-28",
+"t": "Lenovo and IBM Announce Recall of ThinkPad Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2006/Lenovo-and-IBM-Announce-Recall-of-ThinkPad-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Sony Energy Devices Corp., of Japan",
+"k": "laptop"
+},
+{
+"n": "06245",
+"d": "2006-08-24",
+"t": "Apple Announces Recall of Batteries Used in Previous iBook and PowerBook Computers Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2006/Apple-Announces-Recall-of-Batteries-Used-in-Previous-iBook-and-PowerBook-Computers-Due-To-Fire-Hazard",
+"f": "Sony Energy Devices Corp., of Japan; Apple Computer Inc., of Cupertino, Calif.",
+"k": "laptop"
+},
+{
+"n": "06231",
+"d": "2006-08-15",
+"t": "Dell Recall of Notebook Computer Batteries Due To Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2006/Dell-Announces-Recall-of-Notebook-Computer-Batteries-Due-To-Fire-Hazard",
+"f": "Sony Energy Devices Corp., of Japan",
+"k": "laptop"
+},
+{
+"n": "06176",
+"d": "2006-06-06",
+"t": "Hewlett-Packard Company Recalls Digital Cameras Due to Fire Hazard, Offers Download Fix",
+"u": "https://www.cpsc.gov/Recalls/2006/Hewlett-Packard-Company-Recalls-Digital-Cameras-Due-to-Fire-Hazard-Offers-Download-Fix",
+"f": "Hewlett-Packard Company, of Palo Alto, Calif.",
+"k": "camera"
+},
+{
+"n": "06145",
+"d": "2006-04-20",
+"t": "HP Recalls Notebook Computer Batteries Due to Fire Hazard",
+"u": "https://www.cpsc.gov/Recalls/2006/HP-Recalls-Notebook-Computer-Batteries-Due-to-Fire-Hazard",
+"f": "Hewlett-Packard Company, of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "06056",
+"d": "2005-12-16",
+"t": "CPSC, Dell Announce Recall of Notebook Computer Batteries",
+"u": "https://www.cpsc.gov/Recalls/2006/CPSC-Dell-Announce-Recall-of-Notebook-Computer-Batteries",
+"f": "Dell Inc., of Round Rock, Texas",
+"k": "laptop"
+},
+{
+"n": "06007",
+"d": "2005-10-14",
+"t": "CPSC, Hewlett-Packard Company Announce Recall of Notebook Computer Batteries",
+"u": "https://www.cpsc.gov/Recalls/2006/CPSC-Hewlett-Packard-Company-Announce-Recall-of-Notebook-Computer-Batteries",
+"f": "Hewlett-Packard Company, of Palo Alto, Calif.",
+"k": "laptop"
+},
+{
+"n": "05593",
+"d": "2005-08-02",
+"t": "CPSC, WaveCrest Laboratories LLC Announce Recall of Electric Bicycles",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-WaveCrest-Laboratories-LLC-Announce-Recall-of-Electric-Bicycles",
+"f": "WaveCrest Laboratories LLC, of Dulles, VA",
+"k": "e-bike"
+},
+{
+"n": "05204",
+"d": "2005-06-22",
+"t": "CPSC, Battery-Biz Announce Recall of Notebook Computer Batteries",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Battery-Biz-Announce-Recall-of-Notebook-Computer-Batteries",
+"f": "Battery-Biz® Inc., of Newbury Park, Calif.",
+"k": "laptop"
+},
+{
+"n": "05194",
+"d": "2005-06-14",
+"t": "CPSC, Razor USA Announce Recall of PowMax Battery Chargers Sold with Razor Electric Scooters, Motorcycles and Go Karts",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Razor-USA-Announce-Recall-of-PowMax-Battery-Chargers-Sold-with-Razor-Electric-Scooters-Motorcycles-and-Go-Karts",
+"f": "Leadman Electronic Co., Ltd. of China; Razor USA LLC, of Cerritos, Calif.",
+"k": "e-scooter"
+},
+{
+"n": "05193",
+"d": "2005-06-14",
+"t": "CPSC, Razor USA Announce Recall of Electric Scooters",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Razor-USA-Announce-Recall-of-Electric-Scooters",
+"f": "Razor USA LLC, of Cerritos, Calif.",
+"k": "e-scooter"
+},
+{
+"n": "05113",
+"d": "2005-02-17",
+"t": "CPSC, GSI Commerce Solutions Announce Recall of Electric Scooters",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-GSI-Commerce-Solutions-Announce-Recall-of-Electric-Scooters-",
+"f": "",
+"k": "e-scooter"
+},
+{
+"n": "05070",
+"d": "2004-12-14",
+"t": "CPSC, Psion Teklogix Corp. Announce Recall of AC Power Adapters",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Psion-Teklogix-Corp-Announce-Recall-of-AC-Power-Adapters-",
+"f": "",
+"k": "laptop"
+},
+{
+"n": "05505",
+"d": "2004-10-28",
+"t": "CPSC, Kyocera Wireless Corp. Announce Recall of Cell Phone Batteries",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Kyocera-Wireless-Corp-Announce-Recall-of-Cell-Phone-Batteries-",
+"f": "Hecmma Group, of El Paso, Texas",
+"k": "phone"
+},
+{
+"n": "05004",
+"d": "2004-10-08",
+"t": "CPSC, Dell Inc. Announce Recall of AC Adapters for Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/2005/CPSC-Dell-Inc-Announce-Recall-of-AC-Adapters-for-Notebook-Computers-",
+"f": "Delta Electronics Inc., of Taipei, Taiwan; Dell Inc., of Round Rock, Texas",
+"k": "laptop"
+},
+{
+"n": "04208",
+"d": "2004-09-02",
+"t": "CPSC, IBM Announce Recall of AC Adapters for Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/2004/CPSC-IBM-Announce-Recall-of-AC-Adapters-for-Notebook-Computers-",
+"f": "Delta Electronics Inc., of Taipei, Taiwan; International Business Machines (IBM) Corp., of Armonk, N.Y.",
+"k": "laptop"
+},
+{
+"n": "04207",
+"d": "2004-09-02",
+"t": "CPSC, Target Announce Recall of Electric Scooters",
+"u": "https://www.cpsc.gov/Recalls/2004/CPSC-Target-Announce-Recall-of-Electric-Scooters-",
+"f": "Leoch E-Vehicle Ltd.; Target Corp., of Minneapolis, Minn.",
+"k": "e-scooter"
+},
+{
+"n": "04560",
+"d": "2004-07-01",
+"t": "CPSC, Dell Inc. Announce Recall of Power Adapters for Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/2004/CPSC-Dell-Inc-Announce-Recall-of-Power-Adapters-for-Notebook-Computers",
+"f": "Dell Inc., of Round Rock, Texas",
+"k": "laptop"
+},
+{
+"n": "04559",
+"d": "2004-06-24",
+"t": "CPSC, Verizon Wireless Announce Recall of Counterfeit Cell Phone Batteries",
+"u": "https://www.cpsc.gov/Recalls/2004/CPSC-Verizon-Wireless-Announce-Recall-of-Counterfeit-Cell-Phone-Batteries",
+"f": "Verizon Wireless of Bedminster, N.J.",
+"k": "phone"
+},
+{
+"n": "04068",
+"d": "2004-01-23",
+"t": "CPSC, Kyocera Wireless Corp. Announce Recall of Batteries in Smartphone Cell Phones",
+"u": "https://www.cpsc.gov/Recalls/2004/CPSC-Kyocera-Wireless-Corp-Announce-Recall-of-Batteries-in-Smartphone-Cell-Phones-",
+"f": "Coslight International Group, of Hong Kong, manufactured the batteries for Kyocera Wireless Corp., of San Diego, Calif.",
+"k": "phone"
+},
+{
+"n": "03197",
+"d": "2003-09-25",
+"t": "CPSC, Sony Electronics Inc. Announce Recall of Certain VAIO Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/2003/CPSC-Sony-Electronics-Inc-Announce-Recall-of-Certain-VAIO-Notebook-Computers",
+"f": "Sony Corp., of Tokyo, Japan",
+"k": "laptop"
+},
+{
+"n": "02253",
+"d": "2002-09-19",
+"t": "CPSC, Nikon Inc. Announce Recall of Coolpix 2000-Model Digital Cameras",
+"u": "https://www.cpsc.gov/Recalls/2002/CPSC-Nikon-Inc-Announce-Recall-of-Coolpix-2000-Model-Digital-Cameras-",
+"f": "Nikon Inc., of Melville, N.Y.",
+"k": "camera"
+},
+{
+"n": "02251",
+"d": "2002-09-17",
+"t": "CPSC and EV Global Motors Co. Announce Recall of Lithium Batteries in Electric Bikes",
+"u": "https://www.cpsc.gov/Recalls/2002/CPSC-and-EV-Global-Motors-Co-Announce-Recall-of-Lithium-Batteries-in-Electric-Bikes-",
+"f": "EV Global Motors Co., of North Hills, Calif.",
+"k": "e-bike"
+},
+{
+"n": "02037",
+"d": "2001-11-13",
+"t": "CPSC, Computer Distributors Announce Recall of Batteries for Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/2002/CPSC-Computer-Distributors-Announce-Recall-of-Batteries-for-Notebook-Computers",
+"f": "",
+"k": "laptop"
+},
+{
+"n": "02002",
+"d": "2001-10-04",
+"t": "CPSC, Compaq Announce Recall of Notebook Computer AC Adapters",
+"u": "https://www.cpsc.gov/Recalls/2002/CPSC-Compaq-Announce-Recall-of-Notebook-Computer-AC-Adapters",
+"f": "",
+"k": "laptop"
+},
+{
+"n": "01525",
+"d": "2001-09-18",
+"t": "CPSC, TH!NK Mobility Recall Electrically Assisted Bicycles",
+"u": "https://www.cpsc.gov/Recalls/2001/CPSC-THNK-Mobility-Recall-Electrically-Assisted-Bicycles",
+"f": "TH!NK Mobility, LLC, of Carlsbad, Calif.",
+"k": "e-bike"
+},
+{
+"n": "01188",
+"d": "2001-07-06",
+"t": "CPSC, Apple Announces Recall of AC Adapter for Prior Generation PowerBook Laptops",
+"u": "https://www.cpsc.gov/Recalls/2001/CPSC-Apple-Announces-Recall-of-AC-Adapter-for-Prior-Generation-PowerBook-Laptops",
+"f": "Apple, of Cupertino, Calif.",
+"k": "laptop"
+},
+{
+"n": "01140",
+"d": "2001-05-03",
+"t": "CPSC, Dell Computer Corp. Announce Recall of Notebook Computer Batteries",
+"u": "https://www.cpsc.gov/Recalls/2001/CPSC-Dell-Computer-Corp-Announce-Recall-of-Notebook-Computer-Batteries",
+"f": "Dell Computer Corp., of Round Rock, Texas",
+"k": "laptop"
+},
+{
+"n": "01022",
+"d": "2000-10-27",
+"t": "CPSC, Compaq Announce Recall of Notebook Computer Battery Packs",
+"u": "https://www.cpsc.gov/Recalls/2001/CPSC-Compaq-Announce-Recall-of-Notebook-Computer-Battery-Packs",
+"f": "Compaq Computer Corp., of Houston, Texas",
+"k": "laptop"
+},
+{
+"n": "01013",
+"d": "2000-10-13",
+"t": "CPSC, Dell Announce Recall of Batteries for Notebook-Computers",
+"u": "https://www.cpsc.gov/Recalls/2001/CPSC-Dell-Announce-Recall-of-Batteries-for-Notebook-Computers",
+"f": "Dell Computer Corp., of Round Rock, Texas",
+"k": "laptop"
+},
+{
+"n": "00110",
+"d": "2000-05-18",
+"t": "CPSC, IBM Announce Recall of AC Adapters for Notebook Computers, Mobile Devices",
+"u": "https://www.cpsc.gov/Recalls/2000/CPSC-IBM-Announce-Recall-of-AC-Adapters-for-Notebook-Computers-Mobile-Devices",
+"f": "International Business Machines (IBM) Corporation, of Armonk, N.Y.",
+"k": "laptop"
+},
+{
+"n": "99059",
+"d": "1999-02-10",
+"t": "AC Adapters for Digital Cameras Recalled by Kodak",
+"u": "https://www.cpsc.gov/Recalls/1999/CPSC-Kodak-Announce-Recall-of-AC-Adapters-for-Digital-Cameras",
+"f": "ELPAC; Eastman Kodak",
+"k": "camera"
+},
+{
+"n": "98014",
+"d": "1997-10-21",
+"t": "AC Adapters for Latitude LM Computers and LM Port Replicators Recall",
+"u": "https://www.cpsc.gov/Recalls/1998/CPSC-Dell-Announce-Recall-of-AC-Adapters-for-Latitude-LM-Notebook-Computers-and-Latitude-LM-Port-Replicators",
+"f": "Dell",
+"k": "laptop"
+},
+{
+"n": "97183",
+"d": "1997-09-03",
+"t": "AC Adapters Recalled by Digital Equipment",
+"u": "https://www.cpsc.gov/Recalls/1997/CPSC-Digital-Equipment-Corp-Announce-Recall-of-AC-Adapters-for-Notebook-Computers",
+"f": "Digital Equipment",
+"k": "laptop"
+},
+{
+"n": "97037",
+"d": "1996-12-05",
+"t": "AC Adapters for Armada 4100 Notebook Computers Recalled",
+"u": "https://www.cpsc.gov/Recalls/1997/CPSC-and-Compaq-Computer-Announce-Recall-of-AC-Adapters-for-Armada-4100-Notebook-Computers",
+"f": "Compaq",
+"k": "laptop"
+},
+{
+"n": "96064",
+"d": "1996-01-25",
+"t": "CPSC, Texas Instruments Announce Battery Charger Recall For Travelmate 4000m Notebook Computers",
+"u": "https://www.cpsc.gov/Recalls/1996/httpwwwcpscgovcpscpubprerelprhtml9696064html",
+"f": "Texas Instruments",
+"k": "laptop"
+},
+{
+"n": "95065",
+"d": "1995-01-20",
+"t": "CPSC And IBM Announce Recall Of Thinkpad AC Adapters",
+"u": "https://www.cpsc.gov/Recalls/1995/CPSC-And-IBM-Announce-Recall-Of-Thinkpad-AC-Adapters",
+"f": "IBM",
+"k": "laptop"
+},
+{
+"n": "94011",
+"d": "1993-11-22",
+"t": "NEC Technologies Inc. Recalls PC-17-01 And PC-17-02 Laptop Computer Batteries",
+"u": "https://www.cpsc.gov/Recalls/1994/NEC-Technologies-Inc-Recalls-PC-17-01-And-PC-17-02-Laptop-Computer-Batteries",
+"f": "NEC Technologies",
+"k": "laptop"
+}
+]
+}
